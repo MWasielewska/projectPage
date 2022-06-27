@@ -1,1 +1,42 @@
- 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <title>Menu Page</title>
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+    <body>
+        <div class="hero">
+            <div class="he-container">
+                <div class="he-con-na"><h1><span>H</span>ell's <span>K</span>itchen</h1></div>
+                 <div class="he-con-buttons">
+                    <div class="he-con-bu-one">
+                        <button value="Submit" class="btn1" >Gallery 
+                    </div>
+                    <div class="he-con-bu-two">
+                        <button type="submit">Menu
+                    </div>
+                </div>
+            </div>
+        </div>
+</head>
+<main> 
+    <h1>Welcome to our Menu Page!</h1>
+
+      <h2>STARTERS</h2>
+      <li>GARLIC CIABATTA BREAD with cheese and herbs (VE)</li>
+ <img src= https://www.thespruceeats.com/thmb/EYyH2olmgcOkCFhrgNvnC8gJR1k=/3563x2004/smart/filters:no_upscale()/garlic-bread-86288147-5a02021213f12900373c52b0.jpg>      
+      
+      <li>WARM MULTI CEREAL BAGUETTE
+        marinated olives, aioli, olive oil & balsamic vinegar (GFR,VE,GFR)</li>
+ <img src=https://jamiegeller.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY1NTI0NzY3OTAzMzI3Nzgy/olive-oiljpg.jpg>  
+        
+ <li> CHEESY NACHOS
+   melted cheddar, jalapenos, guacamole & sour cream topped with a fried egg (GF)</li>
+          
+ <img src= https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2016%2F01%2Fcheesy-nachos-with-fried-eggs-and-giardiniera-XL-RECIPE0117.jpg&q=60>
