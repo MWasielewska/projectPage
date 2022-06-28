@@ -51,6 +51,33 @@ img{
    width: 40%;
 }
 
+footer{
+    color: black;
+    background-color:rgb(247, 246, 246);
+    border: 3px solid rgb(192, 12, 12);
+    margin: 1vw 0vw 2vw 0vw;
+    font-size: 3rem;
+    /* padding: 4vh; */
+    text-align: center;  
+}
+
+.fa-facebook{
+    text-decoration: none;
+    margin: 2rem;
+}
+.fa-twitter{
+    text-decoration: none;
+    margin: 2rem;
+}
+.fa-instagram{
+    text-decoration: none;
+    margin: 3rem;
+}
+
+footer a{
+    font-size: 1rem;
+    }
+
 /* // Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) {
     .gal-img{
@@ -58,9 +85,11 @@ img{
         flex-direction: column;
         gap: 2em;
     }
+
     img{
         margin: 0 auto;
     }
+
     button{
         font-size: 2.5em;
         padding: .2em;
@@ -69,12 +98,39 @@ img{
         outline-offset: -10px;
         margin-top: .5em;
     }
+
     .he-con-buttons{
         display: flex;
         flex-direction:column;
     }
- }
+    
+    footer{
+        color: black;
+        background-color:rgb(247, 246, 246);
+        border: 3px solid rgb(192, 12, 12);
+        font-size: 1rem;
+        text-align: center;  
+    }
+        
+    .fa-facebook{
+        text-decoration: none;
+        margin: .5rem;
+    }
+    .fa-twitter{
+        text-decoration: none;
+        margin: .5rem;
+    }
+    .fa-instagram{
+        text-decoration: none;
+        margin: .5rem;
+    }
+    
+    footer a{
+        font-size: 1rem;
+        }
+    }
 
+ 
 /* // Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) {
     button{
