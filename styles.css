@@ -137,6 +137,15 @@ header{
     text-align: center;
     margain: 5rem;
 }
+
+li{
+    text-align:center;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
     
  
 /* // Medium devices (tablets, 768px and up)*/
